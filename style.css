@@ -1,0 +1,48 @@
+#blue{
+    background-color: blue;
+    height: 300px;
+    width: 400px;
+    position: relative;
+
+}
+#black{
+    background-color: black;
+    height: 89px;
+    width: 89px;
+    position: relative;
+    top: -300px;
+}
+
+#green{
+    background-color: green;
+    height: 150px;
+    width: 210px;
+    position: relative;
+    top: -300px;
+    right: -90px;
+}
+
+
+#blue{
+    background-color:yellow;
+    height: 300px;
+    width: 400px;
+    position: relative;
+
+}
+#black{
+    background-color: ;
+    height: 89px;
+    width: 89px;
+    position: relative;
+    top: -300px;
+}
+
+#green{
+    background-color: green;
+    height: 150px;
+    width: 210px;
+    position: relative;
+    top: -300px;
+    right: -90px;
+}
